@@ -13,3 +13,6 @@ int main(int argc, char *argv[]) {
 
     return 0
 }
+```
+
+![Изображение](https://forum.bits.media/uploads/monthly_01_2017/post-241-0-31353200-1483924908.png)
